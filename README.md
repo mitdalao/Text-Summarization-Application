@@ -20,7 +20,7 @@
 
 step1：使用IntelliJ IDEA打开demo文件夹，编译运行。
 
-step2：在浏览器中打开http://localhost:8080/summarization/demo，即可看到交互网页。
+step2：在浏览器中打开http://localhost:8080/summarization/demo 即可看到交互界面。
 
 step3：在网页左侧文本框中输入文本，点击提交即可，摘要结果显示在右侧文本框中。
 
