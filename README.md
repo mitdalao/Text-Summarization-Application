@@ -26,5 +26,5 @@ step3：在网页左侧文本框中输入文本，点击提交即可，摘要结
 
 **运行效果截图：**
 
-![](C:\Users\做一个任性的孩子\Desktop\创新训练项目\code\Text-Summarization-Application\demo.png)
+![](./demo.png)
 
